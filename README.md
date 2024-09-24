@@ -14,7 +14,7 @@ A simple and interactive Rock-Paper-Scissors game built using HTML, CSS, and Jav
 
 ## Demo
 
-You can see a live demo of the project [here](#). *(Replace `#` with the URL if deployed)*
+You can see a live demo of the project https://rpsbyaj.netlify.app/. 
 
 ## Features
 
